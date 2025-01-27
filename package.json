@@ -1,0 +1,25 @@
+{
+  "name": "ajwinny",
+  "version": "1.0.0",
+  "description": "Calculator for doing different operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Add",
+    "Substract",
+    "Multiply",
+    "Divide",
+    "sin",
+    "and",
+    "cos",
+    "also",
+    "so",
+    "many",
+    "mathematical",
+    "operation"
+  ],
+  "author": "Winny",
+  "license": "MIT"
+}
